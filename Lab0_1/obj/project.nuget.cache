@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VImOw1ijDTji5zTLHyNkluSxbr9+dEo8KHWhGwWj0jLBV/wAahLd8H7qcUePepQj38HXfNECGim3zdieXs9JQ==",
+  "success": true,
+  "projectFilePath": "E:\\Univer\\4_course\\1_semestr\\PSP\\Labs\\Lab0\\Lab0\\Lab0_1\\Lab0_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seren\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\seren\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
